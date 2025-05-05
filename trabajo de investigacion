@@ -1,3 +1,4 @@
+//Ejercicio 1
 // Asignar y leer costo del producto
 // Asignar y leer dinero recibido
 // Si dinero recibido >= costo Entonces
@@ -33,7 +34,7 @@ Algoritmo Calculadoradevuelto
 FinAlgoritmo
 
 
-
+//Ejercicio 2
 // Leer el tipo de conversión (1: kg a lb, 2: lb a kg)
 // Leer la opcion escogida (tipo1, tipo 2)
 // Si tipo = 1 entonces
@@ -83,7 +84,7 @@ Algoritmo ConversorkgLibras
 	Escribir "kilogramos: ", kg
 FinAlgoritmo
 
-
+//Ejercicio 3
 // Asignar y leer el monto de la compra
 // Si el monto < 100, aplicar 0%
 //sino
@@ -121,7 +122,7 @@ Algoritmo Calculadora_Descuentos
 	Escribir "total a pagar: $", total
 FinAlgoritmo
 
-
+//Ejercicio 4
 // Leer precio sin IVA
 // Calcular IVA (15% del precio)
 // Sumar IVA al precio
@@ -151,7 +152,8 @@ Algoritmo Calculo_IVA_y_Descuento
 	Escribir "Precio final con iva: $", precio_final
 FinAlgoritmo
 
-
+//Ejercicio 5 
+// asignar,leer precio1, precio2
 //Si el primer precio es mayor que el segundo, mostrar que el primer producto es más caro"
 //     Sino
 //     Si el segundo precio es mayor que el primero, mostrar que el segundo producto es más caro
@@ -181,6 +183,7 @@ Algoritmo Comparacion_Precios
 FinAlgoritmo
 
 
+//Ejercicio 6
 //  Asignar y leer la edad del cliente
 // Verificar la edad del cliente:
 //  0 a 12 ? Niño
